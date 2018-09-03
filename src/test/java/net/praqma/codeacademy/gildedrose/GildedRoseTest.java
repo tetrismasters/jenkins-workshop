@@ -15,3 +15,5 @@ public class GildedRoseTest {
     }
 
 }
+
+//I'm a comment
